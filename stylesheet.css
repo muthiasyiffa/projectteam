@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.main {
+  padding: 100px 0px 100px 0px;
+  text-align: center;
+  margin: auto;
+  background-image: url("./src/bg1.png");
+  background-size: cover;
+  color: white;
+}
+
+
+.judul h1 {
+  font-size: 64px;
+  letter-spacing: 8px;
+}
+
+.judul h2 {
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.comment {
+  padding-top: 20px;
+}
+
+.movie-comment {
+  margin-right: 15px;
+}
+
+.language {
+  margin-right: 15px;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.plans {
+  padding: 20px;
+}
+
+.plans p {
+  font-size: 24px;
+  padding-bottom: 5px;
+  padding-top: 65px;
+} 
+
+.input-email {
+  width:300px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:5px;
+  font-size:18px;
+  border-radius: 7px;
+}
+
+.btn {
+  width:100px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:5px;
+  font-size:18px;
+  border-radius: 7px;
+  background-color: #E50914;
+  border-color: #E50914;
+  opacity: 0.8;
+  color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+

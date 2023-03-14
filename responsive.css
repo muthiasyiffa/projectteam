@@ -1,0 +1,69 @@
+/* Tata letak untuk tablets */
+@media (max-width: 1000px) {
+  /* MAIN */
+
+  .judul h1 {
+    font-size: 45px;
+  }
+
+  .judul h2 {
+    font-size: 25px;
+  }
+
+  .plans p {
+    font-size: 21px;
+  }
+
+  .input-email {
+    width: 250px;
+    font-size: 16px;
+  }
+  
+  .btn {
+    width: 90px;
+    font-size: 16px;
+  }
+
+  /* MAIN */
+}
+
+/* Tata letak untuk smartphones */
+@media (max-width: 670px) {
+  /* MAIN */
+
+  .judul h1 {
+    font-size: 30px;
+  }
+
+  .judul h2 {
+    font-size: 17px;
+  }
+
+  .comment {
+    font-size: 14px;
+  }
+
+  .movie-comment {
+    margin-right: 10px;
+  }
+  
+  .language {
+    margin-right: 10px;
+  }
+
+  .plans p {
+    font-size: 15px;
+  }
+
+  .input-email {
+    width: 175px;
+    font-size: 14px;
+  }
+  
+  .btn {
+    width: 80px;
+    font-size: 14px;
+  }
+
+  /* MAIN */
+}
